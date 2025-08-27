@@ -38,16 +38,4 @@ This project simulates an **enterprise-grade data pipeline** with the following 
 <img width="3274" height="1221" alt="Data engineering architecture" src="https://github.com/user-attachments/assets/d718f07b-077a-4924-8dd9-f6f93eca87e3" />
 
 
----
-
-## ▶️ Getting Started
-
-### 1️ Clone the Repository
-```bash
-git clone https://github.com/<your-username>/streamforge.git
-cd streamforge
-### 2 Navigate to the Project Directory
-cd streamforge
-### 3 Run Docker Compose to Spin Up the Services
-docker-compose up
 
